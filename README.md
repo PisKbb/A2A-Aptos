@@ -1,5 +1,4 @@
 
-https://github.com/user-attachments/assets/4165e1e8-fc88-449e-9364-7473b82a02ad
 # A2A-Aptos: Blockchain-Powered Agent Collaboration Platform
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
